@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #0d1b2a;
+}
+
+.hero {
+    background-color: #e9f2ff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.hero h2 {
+    font-weight: 700;
+    color: #0d1b2a;
+}
+
+.hero p {
+    max-width: 700px;
+    margin: 0 auto 30px;
+    color: #495057;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+#offerte {
+    background-color: #ffffff;
+}
+
+.navbar-brand {
+    color: #0d1b2a;
+}
+
+.nav-link {
+    color: #0d1b2a;
+}
+
+.nav-link:hover {
+    color: #0a58ca;
+}
